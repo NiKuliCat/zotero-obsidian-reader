@@ -1,0 +1,4 @@
+version: 1
+display_name: Zotero Obsidian Reader
+short_description: Read Zotero items and generate Obsidian paper or synthesis notes.
+default_prompt: Generate or update Obsidian literature notes from Zotero items, collections, or topic batches.

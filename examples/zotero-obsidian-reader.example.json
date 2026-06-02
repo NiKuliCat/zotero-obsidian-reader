@@ -1,0 +1,16 @@
+{
+  "vault_dir": "G:\\your_workspace\\note\\论文笔记",
+  "zotero_dir": "G:\\your_workspace\\zotero_data",
+  "paper_relative_dir": "",
+  "synthesis_relative_dir": "",
+  "paper_filename_suffix": "_精读笔记",
+  "synthesis_filename_suffix": "_综述",
+  "research_domain": "实时渲染 / 高斯泼溅 / 三维重建",
+  "research_focus": "面向论文精读与知识沉淀的文献笔记工作流",
+  "research_keywords": [
+    "实时渲染",
+    "高斯泼溅",
+    "3DGS",
+    "三维重建"
+  ]
+}
