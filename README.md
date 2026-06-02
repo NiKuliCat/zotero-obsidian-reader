@@ -274,16 +274,8 @@ Obsidian根目录/高斯泼溅/三维高斯泼溅技术的GIS应用探索_精读
 - 如果附件没有全文缓存，分析会更多依赖元数据、摘要、标签和批注
 - 如果同名论文很多，最好提供 item key、精确标题或集合范围，避免歧义
 
-## 适合公开发布时补充的内容
-
-如果你准备继续把这个仓库打磨成公开项目，建议后续再补：
-
-- `LICENSE`
-- 示例截图
-- 一篇真实生成结果的样例笔记
-- 更新日志或 roadmap
-
 ## 相关文件
 
 - 技能入口：[SKILL.md](./SKILL.md)
 - 示例配置：[examples/zotero-obsidian-reader.example.json](./examples/zotero-obsidian-reader.example.json)
+- 示例笔记展示页：[docs/example-paper-note-showcase.md](./docs/example-paper-note-showcase.md)
